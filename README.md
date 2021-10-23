@@ -23,20 +23,19 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
 
-<!---
+
+
 vinothkumar2/vinothkumar2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <a href="https://fayas.me">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinothkumar2&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
-   --->
-       
-     <!---
+  
+     
         <img width="54%" src="https://github-profile-trophy.vercel.app/?username=vinothkumar2&row=2&column=3&theme=tokyonight"/>
         <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar2&theme=tokyonight"/>
-     --->
+  --->
     </a>
 </div>

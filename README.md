@@ -4,6 +4,8 @@
 - --->
 - ## 👋 Hi, I’m Vinoth Kumar R, Welcome to my GitHub Profile
 
+![](https://komarev.com/ghpvc/?username=your-github-vinothkumar2&label=MY+PROFILE+VIEWS)
+
 <!---
 # My Social Profiles
 <p align="center">

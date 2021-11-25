@@ -3,7 +3,7 @@
 - **📚 CA Student**
 - --->
 - ## 👋 Hi, I’m Vinoth Kumar R, Welcome to my GitHub Profile
-- ## View my <a href="https://vinothkumar2.github.io/profile/"> Profile </a> here 
+- ## View my <a target="_blank" href="https://vinothkumar2.github.io/myprofile/"> Profile </a> here 
 
 ![](https://komarev.com/ghpvc/?username=your-github-vinothkumar2&label=MY+PROFILE+VIEWS)
 

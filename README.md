@@ -22,11 +22,6 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar2&theme=tokyonight">
 </p>
 
-# Spotify Recently Played
-<p align="center">
-<img width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=tp1ay8nwta5n3xiusg2x3k5ha">
-</p>
-
 # My Social Profiles
 
 <p align="center">

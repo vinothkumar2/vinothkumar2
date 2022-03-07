@@ -17,8 +17,8 @@
 <a href="https://hashnode.com/@vinothkumar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vinothkumar2" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothkumar2&show_icons=true&locale=en&layout=compact" alt="vinothkumar2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothkumar2&show_icons=true&locale=en&layout=compact" alt="vinothkumar2" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinothkumar2&show_icons=true&locale=en" alt="vinothkumar2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinothkumar2&show_icons=true&locale=en" alt="vinothkumar2" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar2&" alt="vinothkumar2" /></p>

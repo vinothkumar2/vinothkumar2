@@ -21,11 +21,14 @@
 <p align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinothkumar2&theme=tokyonight">
 </p>
-<p align="center">
+
 # Spotify Recently Played
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=tp1ay8nwta5n3xiusg2x3k5ha)
+<p align="center">
+<img width="30%" src="https://spotify-recently-played-readme.vercel.app/api?user=tp1ay8nwta5n3xiusg2x3k5ha">
 </p>
+
 # My Social Profiles
+
 <p align="center">
 <a href="https://www.instagram.com/vinoth_kumar2249/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://telegram.me/vinothkumar_rajendran"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>

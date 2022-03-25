@@ -12,12 +12,14 @@
 ![](https://raw.githubusercontent.com/vinothkumar2/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/vinothkumar2/github-stats-transparent/output/generated/languages.svg)
 
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothkumar2&show_icons=true&locale=en&layout=compact" alt="vinothkumar2" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vinothkumar2&show_icons=true&locale=en" alt="vinothkumar2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar2&" alt="vinothkumar2" /></p>
+
+ -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

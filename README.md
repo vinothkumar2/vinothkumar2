@@ -7,6 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinothkumar2&label=Profile%20views&color=0e75b6&style=flat" alt="vinothkumar2" /> </p>
 
+# GitHub Stats
+
+![](https://raw.githubusercontent.com/vinothkumar2/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/vinothkumar2/github-stats-transparent/output/generated/languages.svg)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinothkumar2&show_icons=true&locale=en&layout=compact" alt="vinothkumar2" /></p>

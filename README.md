@@ -27,6 +27,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumar2&" alt="vinothkumar2" /></p>
 
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=tp1ay8nwta5n3xiusg2x3k5ha">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=tp1ay8nwta5n3xiusg2x3k5ha" alt="Data Card for Spotify">
-</a>
+
